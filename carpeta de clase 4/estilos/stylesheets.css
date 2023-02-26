@@ -1,0 +1,38 @@
+.DEVOCION {
+    color:firebrick
+  }
+
+
+
+     /*Sector de Horarios de atencion*/
+
+  .Dias {
+    color: aquamarine;
+    font-size: xx-large;
+  }
+
+.lunes{
+    font-size: large;
+    color:darkcyan
+}
+    .horalunes{
+        color:darkcyan
+
+    }
+
+.miercoles{
+    font-size: large;
+    color:darksalmon
+}
+    .horamiercoles{
+        color:darksalmon
+    }
+
+.viernes{
+    font-size: large;
+    color:darkseagreen
+}
+    .horaviernes{
+        color:darkseagreen
+    }
+
